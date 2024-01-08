@@ -1,0 +1,8 @@
+model,price,rating,sim,processor,ram,battery,display,camera,card,os
+Nokia 105 (2019),"₹1,299",78.258,Single Sim,No Wifi,"4 MB RAM, 4 MB inbuilt",800 mAh Battery,"1.77 inches, 120 x 160 px Display",No Rear Camera,nocard,andoid
+Motorola Moto A10,"₹1,339",78.258,Dual Sim,"4 MB RAM, 4 MB inbuilt",1750 mAh Battery,"1.8 inches, 160 x 128 px Display",No Rear Camera,"Memory Card Supported, upto 32 GB",nocard,andoid
+Samsung Guru GT-E1215,"₹1,850",78.258,Single Sim,800 mAh Battery,"1.5 inches, 120 x 120 px Display",No Rear Camera,No FM Radio,,nocard,andoid
+Eunity U1 King,₹599,78.258,Dual Sim,1.77 MHz Processor,"32 MB RAM, 32 MB inbuilt",1000 mAh Battery,"1.8 inches, 260 x 240 px Display",0.3 MP Rear Camera,nocard,andoid
+Nokia 110 (2022),"₹1,599",78.258,Dual Sim,No Wifi,"4 MB RAM, 4 MB inbuilt",1000 mAh Battery,"1.77 inches, 120 x 160 px Display","Memory Card Supported, upto 32 GB",nocard,andoid
+Samsung Guru E1200,"₹1,685",78.258,Single Sim,No Wifi,800 mAh Battery,"1.5 inches, 128 x 128 px Display",No Rear Camera,No FM Radio,nocard,andoid
+Eunity U1 Livo,₹649,78.258,Dual Sim,1.77 MHz Processor,"16 MB RAM, 16 MB inbuilt",1000 mAh Battery,"1.8 inches, 280 x 240 px Display",0.3 MP Rear Camera,nocard,andoid
